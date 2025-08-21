@@ -52,7 +52,6 @@ Sou apaixonado por tecnologia e inovação. Atuo como **Analista Administrativo 
 - **Gestão de Documentos** — Integração com **SharePoint** para controle e versionamento.
 - **Fluxos Inteligentes** — **Power Automate** para aprovações, notificações e ETL leve.
 
-> 💡 Quando quiser, adiciono links diretos dos repositórios aqui (ex.: `[/dashboard-indicadores](/dashboard-indicadores)`).
 
 ---
 
