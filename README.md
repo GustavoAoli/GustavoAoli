@@ -73,7 +73,7 @@ Expandir meu conhecimento em **Ciência de Dados**, desenvolver soluções com *
 
 ## 📫 Contato
 **LinkedIn:** [gustavo-alves-7971a9156](https://www.linkedin.com/in/gustavo-alves-7971a9156/)  
-**E-mail:** `seu.email@exemplo.com`
+**E-mail:** `gustavo.alves09@outlook.com`
 
 ---
 
