@@ -14,7 +14,7 @@ Foco em **análise de dados**, **automações** e **soluções inteligentes** co
 ---
 
 ## 📘 Sobre Mim
-Sou apaixonado por tecnologia e inovação. Atuo como **Analista Administrativo TI**, desenvolvendo soluções que otimizam processos e melhoram a tomada de decisão por meio de **análise de dados** e **automação**. Experiência com **ferramentas Microsoft** e **programação em Python**.
+Sou apaixonado por tecnologia e inovação. Atuo como **Analista TI**, desenvolvendo soluções que otimizam processos e melhoram a tomada de decisão por meio de **análise de dados** e **automação**. Experiência com **ferramentas Microsoft** e **programação em Python**.
 
 ---
 
