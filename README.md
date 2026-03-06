@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### 👨‍💻 Analista Administrativo TI  
+### 👨‍💻 Analista TI  
 Foco em **análise de dados**, **automações** e **soluções inteligentes** com **Python** e **Microsoft**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Alves-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alves-7971a9156/)
