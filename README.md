@@ -4,7 +4,7 @@
 <div align="center">
 
 ### 👨‍💻 Analista de Dados Pleno  
-Foco em **análise de dados**, **automações** e **soluções inteligentes** com **Python** e **Microsoft**.
+Foco em **análise de dados**, **automações** e **soluções inteligentes** com **Python** e **Microsoft Power Platform**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Alves-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alves-7971a9156/)
 ![Visitors](https://komarev.com/ghpvc/?username=GUSTAVO-USERNAME&label=visitas&color=0E9C47&style=flat)
