@@ -3,7 +3,7 @@
 
 <div align="center">
 
-### 👨‍💻 Analista TI  
+### 👨‍💻 Analista de Dados Pleno  
 Foco em **análise de dados**, **automações** e **soluções inteligentes** com **Python** e **Microsoft**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Alves-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-alves-7971a9156/)
@@ -14,7 +14,7 @@ Foco em **análise de dados**, **automações** e **soluções inteligentes** co
 ---
 
 ## 📘 Sobre Mim
-Sou apaixonado por tecnologia e inovação. Atuo como **Analista TI**, desenvolvendo soluções que otimizam processos e melhoram a tomada de decisão por meio de **análise de dados** e **automação**. Experiência com **ferramentas Microsoft** e **programação em Python**.
+Sou apaixonado por tecnologia e inovação. Atuo como **Analista de Dados**, desenvolvendo soluções que otimizam processos e melhoram a tomada de decisão por meio de **análise de dados** e **automação**. Experiência com **ferramentas Microsoft** e **programação em Python**.
 
 ---
 
